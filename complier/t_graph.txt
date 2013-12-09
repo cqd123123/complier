@@ -1,0 +1,5232 @@
+0	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	0	0	0	0	0	
+1	1	0	1	1	1	0	0	0	0	0	0	
+1	1	1	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	0	0	0	0	0	
+1	1	1	0	1	0	1	1	1	1	1	1	
+1	1	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	1	1	1	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+[INTEGER num]
+referentce 4
+6{11,21,27}
+[INTEGER index]
+referentce 5
+9{11,13,17}
+18{11,13,17}
+[INTEGER temp]
+referentce 2
+12{16}
+[INTEGER $temp0]
+referentce 2
+13{14}
+[INTEGER $temp1]
+referentce 1
+14{16}
+[a[10]:INTEGER]
+referentce 2
+16{31}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 5
+25{28,29,33}
+34{28,29,33}
+[INTEGER $temp4]
+referentce 2
+27{28}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 2
+33{34}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+39{41,88,90}
+[arg INTEGER h]
+referentce 4
+40{42,93,94}
+[INTEGER i]
+referentce 13
+41{43,50,55,74,78,82,87,93,95}
+56{50,55,57,74,78,82,87,93,95}
+83{50,55,74,78,82,87,93,95}
+[INTEGER j]
+referentce 13
+42{43,62,67,74,75,84,87,88,89}
+68{62,67,69,74,75,84,87,88,89}
+85{62,67,74,75,84,87,88,89}
+[INTEGER $temp0]
+referentce 2
+43{44}
+[INTEGER $temp1]
+referentce 2
+44{45}
+[INTEGER $temp2]
+referentce 1
+45{47}
+[INTEGER $temp3]
+referentce 2
+47{48}
+[INTEGER m]
+referentce 5
+48{53,60,65,72}
+[INTEGER $temp4]
+referentce 1
+50{52}
+[INTEGER $temp5]
+referentce 2
+52{53}
+[INTEGER $temp6]
+referentce 2
+55{56}
+[INTEGER $temp7]
+referentce 1
+57{59}
+[INTEGER $temp8]
+referentce 2
+59{60}
+[INTEGER $temp9]
+referentce 1
+62{64}
+[INTEGER $temp10]
+referentce 2
+64{65}
+[INTEGER $temp11]
+referentce 2
+67{68}
+[INTEGER $temp12]
+referentce 1
+69{71}
+[INTEGER $temp13]
+referentce 2
+71{72}
+[INTEGER $temp14]
+referentce 1
+75{77}
+[INTEGER $temp15]
+referentce 1
+78{80}
+[INTEGER $temp16]
+referentce 2
+82{83}
+[INTEGER $temp17]
+referentce 2
+84{85}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+102{103}
+[INTEGER temp]
+referentce 2
+103{106}
+[INTEGER $temp1]
+referentce 2
+104{105}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[c[10]:INTEGER]
+referentce 7
+9{19,31,43,45,50,55}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,21,22}
+23{16,17,21,22}
+[INTEGER $temp2]
+referentce 1
+17{19}
+[INTEGER $temp3]
+referentce 1
+19{21}
+[b[10]:INTEGER]
+referentce 7
+21{33,47,53,68,71,74}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER index]
+referentce 6
+26{28,29,35,36}
+37{28,29,35,36}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 1
+31{33}
+[INTEGER $temp7]
+referentce 1
+33{35}
+[a[10]:INTEGER]
+referentce 5
+35{60,62,64,82}
+[INTEGER $temp8]
+referentce 2
+36{37}
+[INTEGER $temp9]
+referentce 1
+40{45}
+[INTEGER $temp10]
+referentce 1
+41{43}
+[INTEGER $temp11]
+referentce 1
+43{47}
+[INTEGER $temp12]
+referentce 2
+45{47}
+[INTEGER $temp13]
+referentce 2
+47{65}
+[INTEGER $temp14]
+referentce 1
+48{50}
+[INTEGER $temp15]
+referentce 1
+50{53}
+[INTEGER $temp16]
+referentce 1
+51{55}
+[INTEGER $temp17]
+referentce 2
+53{55}
+[INTEGER $temp18]
+referentce 2
+55{56}
+[INTEGER $temp19]
+referentce 1
+56{64}
+[INTEGER $temp20]
+referentce 1
+57{60}
+[INTEGER $temp21]
+referentce 1
+58{62}
+[INTEGER $temp22]
+referentce 2
+60{62}
+[INTEGER $temp23]
+referentce 2
+62{64}
+[INTEGER $temp24]
+referentce 2
+64{65}
+[INTEGER $temp25]
+referentce 2
+65{68}
+[INTEGER $temp26]
+referentce 1
+66{68}
+[INTEGER $temp27]
+referentce 2
+68{71}
+[INTEGER $temp28]
+referentce 1
+69{71}
+[INTEGER $temp29]
+referentce 2
+71{74}
+[INTEGER $temp30]
+referentce 1
+72{74}
+[INTEGER $temp31]
+referentce 2
+74{75}
+[INTEGER $temp32]
+referentce 2
+75{76}
+[INTEGER final]
+referentce 2
+76{89}
+[INTEGER index]
+referentce 5
+77{79,80,84}
+85{79,80,84}
+[INTEGER $temp33]
+referentce 1
+80{82}
+[INTEGER $temp34]
+referentce 2
+84{85}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[c[10]:INTEGER]
+referentce 7
+9{19,31,43,45,50,55}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,21,22}
+23{16,17,21,22}
+[INTEGER $temp2]
+referentce 1
+17{19}
+[INTEGER $temp3]
+referentce 1
+19{21}
+[b[10]:INTEGER]
+referentce 7
+21{33,47,53,68,71,74}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER index]
+referentce 6
+26{28,29,35,36}
+37{28,29,35,36}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 1
+31{33}
+[INTEGER $temp7]
+referentce 1
+33{35}
+[a[10]:INTEGER]
+referentce 5
+35{60,62,64,82}
+[INTEGER $temp8]
+referentce 2
+36{37}
+[INTEGER $temp9]
+referentce 1
+40{45}
+[INTEGER $temp10]
+referentce 1
+41{43}
+[INTEGER $temp11]
+referentce 1
+43{47}
+[INTEGER $temp12]
+referentce 2
+45{47}
+[INTEGER $temp13]
+referentce 2
+47{65}
+[INTEGER $temp14]
+referentce 1
+48{50}
+[INTEGER $temp15]
+referentce 1
+50{53}
+[INTEGER $temp16]
+referentce 1
+51{55}
+[INTEGER $temp17]
+referentce 2
+53{55}
+[INTEGER $temp18]
+referentce 2
+55{56}
+[INTEGER $temp19]
+referentce 1
+56{64}
+[INTEGER $temp20]
+referentce 1
+57{60}
+[INTEGER $temp21]
+referentce 1
+58{62}
+[INTEGER $temp22]
+referentce 2
+60{62}
+[INTEGER $temp23]
+referentce 2
+62{64}
+[INTEGER $temp24]
+referentce 2
+64{65}
+[INTEGER $temp25]
+referentce 2
+65{68}
+[INTEGER $temp26]
+referentce 1
+66{68}
+[INTEGER $temp27]
+referentce 2
+68{71}
+[INTEGER $temp28]
+referentce 1
+69{71}
+[INTEGER $temp29]
+referentce 2
+71{74}
+[INTEGER $temp30]
+referentce 1
+72{74}
+[INTEGER $temp31]
+referentce 2
+74{75}
+[INTEGER $temp32]
+referentce 2
+75{76}
+[INTEGER final]
+referentce 2
+76{89}
+[INTEGER index]
+referentce 5
+77{79,80,84}
+85{79,80,84}
+[INTEGER $temp33]
+referentce 1
+80{82}
+[INTEGER $temp34]
+referentce 2
+84{85}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[c[10]:INTEGER]
+referentce 7
+9{19,31,43,45,50,55}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,21,22}
+23{16,17,21,22}
+[INTEGER $temp2]
+referentce 1
+17{19}
+[INTEGER $temp3]
+referentce 1
+19{21}
+[b[10]:INTEGER]
+referentce 7
+21{33,47,53,68,71,74}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER index]
+referentce 6
+26{28,29,35,36}
+37{28,29,35,36}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 1
+31{33}
+[INTEGER $temp7]
+referentce 1
+33{35}
+[a[10]:INTEGER]
+referentce 5
+35{60,62,64,82}
+[INTEGER $temp8]
+referentce 2
+36{37}
+[INTEGER $temp9]
+referentce 1
+40{45}
+[INTEGER $temp10]
+referentce 1
+41{43}
+[INTEGER $temp11]
+referentce 1
+43{47}
+[INTEGER $temp12]
+referentce 2
+45{47}
+[INTEGER $temp13]
+referentce 2
+47{65}
+[INTEGER $temp14]
+referentce 1
+48{50}
+[INTEGER $temp15]
+referentce 1
+50{53}
+[INTEGER $temp16]
+referentce 1
+51{55}
+[INTEGER $temp17]
+referentce 2
+53{55}
+[INTEGER $temp18]
+referentce 2
+55{56}
+[INTEGER $temp19]
+referentce 1
+56{64}
+[INTEGER $temp20]
+referentce 1
+57{60}
+[INTEGER $temp21]
+referentce 1
+58{62}
+[INTEGER $temp22]
+referentce 2
+60{62}
+[INTEGER $temp23]
+referentce 2
+62{64}
+[INTEGER $temp24]
+referentce 2
+64{65}
+[INTEGER $temp25]
+referentce 2
+65{68}
+[INTEGER $temp26]
+referentce 1
+66{68}
+[INTEGER $temp27]
+referentce 2
+68{71}
+[INTEGER $temp28]
+referentce 1
+69{71}
+[INTEGER $temp29]
+referentce 2
+71{74}
+[INTEGER $temp30]
+referentce 1
+72{74}
+[INTEGER $temp31]
+referentce 2
+74{75}
+[INTEGER $temp32]
+referentce 2
+75{76}
+[INTEGER final]
+referentce 2
+76{89}
+[INTEGER index]
+referentce 5
+77{79,80,84}
+85{79,80,84}
+[INTEGER $temp33]
+referentce 1
+80{82}
+[INTEGER $temp34]
+referentce 2
+84{85}
+0	
+[INTEGER vn]
+referentce 2
+4{5}
+0	
+[arg INTEGER y]
+referentce 2
+19{20}
+0	
+[arg INTEGER y]
+referentce 2
+28{29}
+0	1	0	
+1	0	0	
+0	0	0	
+[arg INTEGER x]
+referentce 2
+34{35}
+[INTEGER t]
+referentce 2
+35{36}
+[INTEGER $temp0]
+referentce 2
+38{40}
+0	1	0	0	0	
+1	0	1	0	0	
+0	1	0	0	0	
+0	0	0	0	1	
+0	0	0	1	0	
+[INTEGER $temp0]
+referentce 2
+44{45}
+[INTEGER t]
+referentce 2
+45{51}
+[INTEGER $temp1]
+referentce 2
+46{47}
+[INTEGER $temp2]
+referentce 2
+53{55}
+[INTEGER $temp3]
+referentce 2
+55{56}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+36{38,85,87}
+[arg INTEGER h]
+referentce 4
+37{39,90,91}
+[INTEGER i]
+referentce 13
+38{40,47,52,71,75,79,84,90,92}
+53{47,52,54,71,75,79,84,90,92}
+80{47,52,71,75,79,84,90,92}
+[INTEGER j]
+referentce 13
+39{40,59,64,71,72,81,84,85,86}
+65{59,64,66,71,72,81,84,85,86}
+82{59,64,71,72,81,84,85,86}
+[INTEGER $temp0]
+referentce 2
+40{41}
+[INTEGER $temp1]
+referentce 2
+41{42}
+[INTEGER $temp2]
+referentce 1
+42{44}
+[INTEGER $temp3]
+referentce 2
+44{45}
+[INTEGER m]
+referentce 5
+45{50,57,62,69}
+[INTEGER $temp4]
+referentce 1
+47{49}
+[INTEGER $temp5]
+referentce 2
+49{50}
+[INTEGER $temp6]
+referentce 2
+52{53}
+[INTEGER $temp7]
+referentce 1
+54{56}
+[INTEGER $temp8]
+referentce 2
+56{57}
+[INTEGER $temp9]
+referentce 1
+59{61}
+[INTEGER $temp10]
+referentce 2
+61{62}
+[INTEGER $temp11]
+referentce 2
+64{65}
+[INTEGER $temp12]
+referentce 1
+66{68}
+[INTEGER $temp13]
+referentce 2
+68{69}
+[INTEGER $temp14]
+referentce 1
+72{74}
+[INTEGER $temp15]
+referentce 1
+75{77}
+[INTEGER $temp16]
+referentce 2
+79{80}
+[INTEGER $temp17]
+referentce 2
+81{82}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+99{100}
+[INTEGER temp]
+referentce 2
+100{103}
+[INTEGER $temp1]
+referentce 2
+101{102}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+36{38,85,87}
+[arg INTEGER h]
+referentce 4
+37{39,90,91}
+[INTEGER i]
+referentce 13
+38{40,47,52,71,75,79,84,90,92}
+53{47,52,54,71,75,79,84,90,92}
+80{47,52,71,75,79,84,90,92}
+[INTEGER j]
+referentce 13
+39{40,59,64,71,72,81,84,85,86}
+65{59,64,66,71,72,81,84,85,86}
+82{59,64,71,72,81,84,85,86}
+[INTEGER $temp0]
+referentce 2
+40{41}
+[INTEGER $temp1]
+referentce 2
+41{42}
+[INTEGER $temp2]
+referentce 1
+42{44}
+[INTEGER $temp3]
+referentce 2
+44{45}
+[INTEGER m]
+referentce 5
+45{50,57,62,69}
+[INTEGER $temp4]
+referentce 1
+47{49}
+[INTEGER $temp5]
+referentce 2
+49{50}
+[INTEGER $temp6]
+referentce 2
+52{53}
+[INTEGER $temp7]
+referentce 1
+54{56}
+[INTEGER $temp8]
+referentce 2
+56{57}
+[INTEGER $temp9]
+referentce 1
+59{61}
+[INTEGER $temp10]
+referentce 2
+61{62}
+[INTEGER $temp11]
+referentce 2
+64{65}
+[INTEGER $temp12]
+referentce 1
+66{68}
+[INTEGER $temp13]
+referentce 2
+68{69}
+[INTEGER $temp14]
+referentce 1
+72{74}
+[INTEGER $temp15]
+referentce 1
+75{77}
+[INTEGER $temp16]
+referentce 2
+79{80}
+[INTEGER $temp17]
+referentce 2
+81{82}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+99{100}
+[INTEGER temp]
+referentce 2
+100{103}
+[INTEGER $temp1]
+referentce 2
+101{102}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+36{38,85,87}
+[arg INTEGER h]
+referentce 4
+37{39,90,91}
+[INTEGER i]
+referentce 13
+38{40,47,52,71,75,79,84,90,92}
+53{47,52,54,71,75,79,84,90,92}
+80{47,52,71,75,79,84,90,92}
+[INTEGER j]
+referentce 13
+39{40,59,64,71,72,81,84,85,86}
+65{59,64,66,71,72,81,84,85,86}
+82{59,64,71,72,81,84,85,86}
+[INTEGER $temp0]
+referentce 2
+40{41}
+[INTEGER $temp1]
+referentce 2
+41{42}
+[INTEGER $temp2]
+referentce 1
+42{44}
+[INTEGER $temp3]
+referentce 2
+44{45}
+[INTEGER m]
+referentce 5
+45{50,57,62,69}
+[INTEGER $temp4]
+referentce 1
+47{49}
+[INTEGER $temp5]
+referentce 2
+49{50}
+[INTEGER $temp6]
+referentce 2
+52{53}
+[INTEGER $temp7]
+referentce 1
+54{56}
+[INTEGER $temp8]
+referentce 2
+56{57}
+[INTEGER $temp9]
+referentce 1
+59{61}
+[INTEGER $temp10]
+referentce 2
+61{62}
+[INTEGER $temp11]
+referentce 2
+64{65}
+[INTEGER $temp12]
+referentce 1
+66{68}
+[INTEGER $temp13]
+referentce 2
+68{69}
+[INTEGER $temp14]
+referentce 1
+72{74}
+[INTEGER $temp15]
+referentce 1
+75{77}
+[INTEGER $temp16]
+referentce 2
+79{80}
+[INTEGER $temp17]
+referentce 2
+81{82}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+99{100}
+[INTEGER temp]
+referentce 2
+100{103}
+[INTEGER $temp1]
+referentce 2
+101{102}
+0	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	0	0	0	0	0	
+1	1	0	1	1	1	0	0	0	0	0	0	
+1	1	1	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	0	0	0	0	0	
+1	1	1	0	1	0	1	1	1	1	1	1	
+1	1	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	1	1	1	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+[INTEGER num]
+referentce 4
+6{11,21,27}
+[INTEGER index]
+referentce 5
+9{11,13,17}
+18{11,13,17}
+[INTEGER temp]
+referentce 2
+12{16}
+[INTEGER $temp0]
+referentce 2
+13{14}
+[INTEGER $temp1]
+referentce 1
+14{16}
+[a[10]:INTEGER]
+referentce 2
+16{31}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 5
+25{28,29,33}
+34{28,29,33}
+[INTEGER $temp4]
+referentce 2
+27{28}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 2
+33{34}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+39{41,88,90}
+[arg INTEGER h]
+referentce 4
+40{42,93,94}
+[INTEGER i]
+referentce 13
+41{43,50,55,74,78,82,87,93,95}
+56{50,55,57,74,78,82,87,93,95}
+83{50,55,74,78,82,87,93,95}
+[INTEGER j]
+referentce 13
+42{43,62,67,74,75,84,87,88,89}
+68{62,67,69,74,75,84,87,88,89}
+85{62,67,74,75,84,87,88,89}
+[INTEGER $temp0]
+referentce 2
+43{44}
+[INTEGER $temp1]
+referentce 2
+44{45}
+[INTEGER $temp2]
+referentce 1
+45{47}
+[INTEGER $temp3]
+referentce 2
+47{48}
+[INTEGER m]
+referentce 5
+48{53,60,65,72}
+[INTEGER $temp4]
+referentce 1
+50{52}
+[INTEGER $temp5]
+referentce 2
+52{53}
+[INTEGER $temp6]
+referentce 2
+55{56}
+[INTEGER $temp7]
+referentce 1
+57{59}
+[INTEGER $temp8]
+referentce 2
+59{60}
+[INTEGER $temp9]
+referentce 1
+62{64}
+[INTEGER $temp10]
+referentce 2
+64{65}
+[INTEGER $temp11]
+referentce 2
+67{68}
+[INTEGER $temp12]
+referentce 1
+69{71}
+[INTEGER $temp13]
+referentce 2
+71{72}
+[INTEGER $temp14]
+referentce 1
+75{77}
+[INTEGER $temp15]
+referentce 1
+78{80}
+[INTEGER $temp16]
+referentce 2
+82{83}
+[INTEGER $temp17]
+referentce 2
+84{85}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+102{103}
+[INTEGER temp]
+referentce 2
+103{106}
+[INTEGER $temp1]
+referentce 2
+104{105}
+0	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	0	0	0	0	0	
+1	1	0	1	1	1	0	0	0	0	0	0	
+1	1	1	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	0	0	0	0	0	
+1	1	1	0	1	0	1	1	1	1	1	1	
+1	1	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	1	1	1	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+[INTEGER num]
+referentce 4
+6{11,21,27}
+[INTEGER index]
+referentce 5
+9{11,13,17}
+18{11,13,17}
+[INTEGER temp]
+referentce 2
+12{16}
+[INTEGER $temp0]
+referentce 2
+13{14}
+[INTEGER $temp1]
+referentce 1
+14{16}
+[a[10]:INTEGER]
+referentce 2
+16{31}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 5
+25{28,29,33}
+34{28,29,33}
+[INTEGER $temp4]
+referentce 2
+27{28}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 2
+33{34}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+39{41,88,90}
+[arg INTEGER h]
+referentce 4
+40{42,93,94}
+[INTEGER i]
+referentce 13
+41{43,50,55,74,78,82,87,93,95}
+56{50,55,57,74,78,82,87,93,95}
+83{50,55,74,78,82,87,93,95}
+[INTEGER j]
+referentce 13
+42{43,62,67,74,75,84,87,88,89}
+68{62,67,69,74,75,84,87,88,89}
+85{62,67,74,75,84,87,88,89}
+[INTEGER $temp0]
+referentce 2
+43{44}
+[INTEGER $temp1]
+referentce 2
+44{45}
+[INTEGER $temp2]
+referentce 1
+45{47}
+[INTEGER $temp3]
+referentce 2
+47{48}
+[INTEGER m]
+referentce 5
+48{53,60,65,72}
+[INTEGER $temp4]
+referentce 1
+50{52}
+[INTEGER $temp5]
+referentce 2
+52{53}
+[INTEGER $temp6]
+referentce 2
+55{56}
+[INTEGER $temp7]
+referentce 1
+57{59}
+[INTEGER $temp8]
+referentce 2
+59{60}
+[INTEGER $temp9]
+referentce 1
+62{64}
+[INTEGER $temp10]
+referentce 2
+64{65}
+[INTEGER $temp11]
+referentce 2
+67{68}
+[INTEGER $temp12]
+referentce 1
+69{71}
+[INTEGER $temp13]
+referentce 2
+71{72}
+[INTEGER $temp14]
+referentce 1
+75{77}
+[INTEGER $temp15]
+referentce 1
+78{80}
+[INTEGER $temp16]
+referentce 2
+82{83}
+[INTEGER $temp17]
+referentce 2
+84{85}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+102{103}
+[INTEGER temp]
+referentce 2
+103{106}
+[INTEGER $temp1]
+referentce 2
+104{105}
+0	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	0	0	0	0	0	
+1	1	0	1	1	1	0	0	0	0	0	0	
+1	1	1	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	0	0	0	0	0	
+1	1	1	0	1	0	1	1	1	1	1	1	
+1	1	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	1	1	1	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	0	1	0	0	0	
+[INTEGER num]
+referentce 4
+6{11,21,27}
+[INTEGER index]
+referentce 5
+9{11,13,17}
+18{11,13,17}
+[INTEGER temp]
+referentce 2
+12{16}
+[INTEGER $temp0]
+referentce 2
+13{14}
+[INTEGER $temp1]
+referentce 1
+14{16}
+[a[10]:INTEGER]
+referentce 2
+16{31}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 5
+25{28,29,33}
+34{28,29,33}
+[INTEGER $temp4]
+referentce 2
+27{28}
+[INTEGER $temp5]
+referentce 1
+29{31}
+[INTEGER $temp6]
+referentce 2
+33{34}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+39{41,88,90}
+[arg INTEGER h]
+referentce 4
+40{42,93,94}
+[INTEGER i]
+referentce 13
+41{43,50,55,74,78,82,87,93,95}
+56{50,55,57,74,78,82,87,93,95}
+83{50,55,74,78,82,87,93,95}
+[INTEGER j]
+referentce 13
+42{43,62,67,74,75,84,87,88,89}
+68{62,67,69,74,75,84,87,88,89}
+85{62,67,74,75,84,87,88,89}
+[INTEGER $temp0]
+referentce 2
+43{44}
+[INTEGER $temp1]
+referentce 2
+44{45}
+[INTEGER $temp2]
+referentce 1
+45{47}
+[INTEGER $temp3]
+referentce 2
+47{48}
+[INTEGER m]
+referentce 5
+48{53,60,65,72}
+[INTEGER $temp4]
+referentce 1
+50{52}
+[INTEGER $temp5]
+referentce 2
+52{53}
+[INTEGER $temp6]
+referentce 2
+55{56}
+[INTEGER $temp7]
+referentce 1
+57{59}
+[INTEGER $temp8]
+referentce 2
+59{60}
+[INTEGER $temp9]
+referentce 1
+62{64}
+[INTEGER $temp10]
+referentce 2
+64{65}
+[INTEGER $temp11]
+referentce 2
+67{68}
+[INTEGER $temp12]
+referentce 1
+69{71}
+[INTEGER $temp13]
+referentce 2
+71{72}
+[INTEGER $temp14]
+referentce 1
+75{77}
+[INTEGER $temp15]
+referentce 1
+78{80}
+[INTEGER $temp16]
+referentce 2
+82{83}
+[INTEGER $temp17]
+referentce 2
+84{85}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+102{103}
+[INTEGER temp]
+referentce 2
+103{106}
+[INTEGER $temp1]
+referentce 2
+104{105}
+0	1	1	
+1	0	0	
+1	0	0	
+[INTEGER index]
+referentce 6
+3{5,6,8,9}
+10{5,6,8,9}
+[INTEGER $temp0]
+referentce 1
+6{8}
+[INTEGER $temp1]
+referentce 2
+9{10}
+0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	
+0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	
+0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	
+0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	
+0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	
+0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 2
+20{41}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER index]
+referentce 5
+36{38,39,43}
+44{38,39,43}
+[INTEGER $temp8]
+referentce 1
+39{41}
+[INTEGER $temp9]
+referentce 2
+43{44}
+0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	
+0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	
+0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	
+0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	
+0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	
+0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 2
+20{41}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER index]
+referentce 5
+36{38,39,43}
+44{38,39,43}
+[INTEGER $temp8]
+referentce 1
+39{41}
+[INTEGER $temp9]
+referentce 2
+43{44}
+0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	
+0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	1	0	1	1	1	1	1	1	1	1	
+0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	
+0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	
+0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	
+0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 2
+20{41}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER index]
+referentce 5
+36{38,39,43}
+44{38,39,43}
+[INTEGER $temp8]
+referentce 1
+39{41}
+[INTEGER $temp9]
+referentce 2
+43{44}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 2
+9{38}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{41,43,46,59}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 3
+31{49,52}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+36{38}
+[INTEGER $temp9]
+referentce 1
+38{41}
+[INTEGER $temp10]
+referentce 1
+39{43}
+[INTEGER $temp11]
+referentce 2
+41{43}
+[INTEGER $temp12]
+referentce 2
+43{46}
+[INTEGER $temp13]
+referentce 1
+44{46}
+[INTEGER $temp14]
+referentce 2
+46{49}
+[INTEGER $temp15]
+referentce 1
+47{49}
+[INTEGER $temp16]
+referentce 2
+49{52}
+[INTEGER $temp17]
+referentce 1
+50{52}
+[INTEGER $temp18]
+referentce 2
+52{53}
+[INTEGER index]
+referentce 6
+53{56,57,61}
+54{56,57,61}
+62{56,57,61}
+[INTEGER $temp19]
+referentce 1
+57{59}
+[INTEGER $temp20]
+referentce 2
+61{62}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 2
+9{38}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{41,43,46,61}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 3
+31{49,52}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+36{38}
+[INTEGER $temp9]
+referentce 1
+38{41}
+[INTEGER $temp10]
+referentce 1
+39{43}
+[INTEGER $temp11]
+referentce 2
+41{43}
+[INTEGER $temp12]
+referentce 2
+43{46}
+[INTEGER $temp13]
+referentce 1
+44{46}
+[INTEGER $temp14]
+referentce 2
+46{49}
+[INTEGER $temp15]
+referentce 1
+47{49}
+[INTEGER $temp16]
+referentce 2
+49{52}
+[INTEGER $temp17]
+referentce 1
+50{52}
+[INTEGER $temp18]
+referentce 2
+52{53}
+[INTEGER index]
+referentce 7
+53{54,58,59,63}
+56{58,59,63}
+64{58,59,63}
+[INTEGER $temp19]
+referentce 1
+59{61}
+[INTEGER $temp20]
+referentce 2
+63{64}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 2
+9{38}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{40,44,47,62}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 3
+31{50,53}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+36{38}
+[INTEGER $temp9]
+referentce 1
+38{40}
+[INTEGER $temp10]
+referentce 2
+40{41}
+[INTEGER $temp11]
+referentce 2
+41{44}
+[INTEGER $temp12]
+referentce 1
+42{44}
+[INTEGER $temp13]
+referentce 2
+44{47}
+[INTEGER $temp14]
+referentce 1
+45{47}
+[INTEGER $temp15]
+referentce 2
+47{50}
+[INTEGER $temp16]
+referentce 1
+48{50}
+[INTEGER $temp17]
+referentce 2
+50{53}
+[INTEGER $temp18]
+referentce 1
+51{53}
+[INTEGER $temp19]
+referentce 2
+53{54}
+[INTEGER index]
+referentce 7
+54{55,59,60,64}
+57{59,60,64}
+65{59,60,64}
+[INTEGER $temp20]
+referentce 1
+60{62}
+[INTEGER $temp21]
+referentce 2
+64{65}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 2
+9{38}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{40,44,47,66}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{50,54,56}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+36{38}
+[INTEGER $temp9]
+referentce 1
+38{40}
+[INTEGER $temp10]
+referentce 2
+40{41}
+[INTEGER $temp11]
+referentce 2
+41{44}
+[INTEGER $temp12]
+referentce 1
+42{44}
+[INTEGER $temp13]
+referentce 2
+44{47}
+[INTEGER $temp14]
+referentce 1
+45{47}
+[INTEGER $temp15]
+referentce 2
+47{50}
+[INTEGER $temp16]
+referentce 1
+48{50}
+[INTEGER $temp17]
+referentce 2
+50{57}
+[INTEGER $temp18]
+referentce 1
+51{54}
+[INTEGER $temp19]
+referentce 1
+52{56}
+[INTEGER $temp20]
+referentce 2
+54{56}
+[INTEGER $temp21]
+referentce 2
+56{57}
+[INTEGER $temp22]
+referentce 2
+57{58}
+[INTEGER index]
+referentce 7
+58{59,63,64,68}
+61{63,64,68}
+69{63,64,68}
+[INTEGER $temp23]
+referentce 1
+64{66}
+[INTEGER $temp24]
+referentce 2
+68{69}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 4
+9{39,45,50}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{52,56,59,78}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 7
+25{27,28,31,32,47}
+33{27,28,31,32,47}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{62,66,68}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+37{39}
+[INTEGER $temp9]
+referentce 1
+43{45}
+[INTEGER $temp10]
+referentce 1
+48{50}
+[INTEGER $temp11]
+referentce 1
+50{52}
+[INTEGER $temp12]
+referentce 2
+52{53}
+[INTEGER $temp13]
+referentce 2
+53{56}
+[INTEGER $temp14]
+referentce 1
+54{56}
+[INTEGER $temp15]
+referentce 2
+56{59}
+[INTEGER $temp16]
+referentce 1
+57{59}
+[INTEGER $temp17]
+referentce 2
+59{62}
+[INTEGER $temp18]
+referentce 1
+60{62}
+[INTEGER $temp19]
+referentce 2
+62{69}
+[INTEGER $temp20]
+referentce 1
+63{66}
+[INTEGER $temp21]
+referentce 1
+64{68}
+[INTEGER $temp22]
+referentce 2
+66{68}
+[INTEGER $temp23]
+referentce 2
+68{69}
+[INTEGER $temp24]
+referentce 2
+69{70}
+[INTEGER index]
+referentce 7
+70{71,75,76,80}
+73{75,76,80}
+81{75,76,80}
+[INTEGER $temp25]
+referentce 1
+76{78}
+[INTEGER $temp26]
+referentce 2
+80{81}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 4
+9{39,45,50}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{52,56,59,78}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 7
+25{27,28,31,32,47}
+33{27,28,31,32,47}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{62,66,68}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+37{39}
+[INTEGER $temp9]
+referentce 1
+43{45}
+[INTEGER $temp10]
+referentce 1
+48{50}
+[INTEGER $temp11]
+referentce 1
+50{52}
+[INTEGER $temp12]
+referentce 2
+52{53}
+[INTEGER $temp13]
+referentce 2
+53{56}
+[INTEGER $temp14]
+referentce 1
+54{56}
+[INTEGER $temp15]
+referentce 2
+56{59}
+[INTEGER $temp16]
+referentce 1
+57{59}
+[INTEGER $temp17]
+referentce 2
+59{62}
+[INTEGER $temp18]
+referentce 1
+60{62}
+[INTEGER $temp19]
+referentce 2
+62{69}
+[INTEGER $temp20]
+referentce 1
+63{66}
+[INTEGER $temp21]
+referentce 1
+64{68}
+[INTEGER $temp22]
+referentce 2
+66{68}
+[INTEGER $temp23]
+referentce 2
+68{69}
+[INTEGER $temp24]
+referentce 2
+69{70}
+[INTEGER index]
+referentce 7
+70{71,75,76,80}
+73{75,76,80}
+81{75,76,80}
+[INTEGER $temp25]
+referentce 1
+76{78}
+[INTEGER $temp26]
+referentce 2
+80{81}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 4
+9{39,45,50}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{52,56,59,78}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 7
+25{27,28,31,32,47}
+33{27,28,31,32,47}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{62,66,68}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+37{39}
+[INTEGER $temp9]
+referentce 1
+43{45}
+[INTEGER $temp10]
+referentce 1
+48{50}
+[INTEGER $temp11]
+referentce 1
+50{52}
+[INTEGER $temp12]
+referentce 2
+52{53}
+[INTEGER $temp13]
+referentce 2
+53{56}
+[INTEGER $temp14]
+referentce 1
+54{56}
+[INTEGER $temp15]
+referentce 2
+56{59}
+[INTEGER $temp16]
+referentce 1
+57{59}
+[INTEGER $temp17]
+referentce 2
+59{62}
+[INTEGER $temp18]
+referentce 1
+60{62}
+[INTEGER $temp19]
+referentce 2
+62{69}
+[INTEGER $temp20]
+referentce 1
+63{66}
+[INTEGER $temp21]
+referentce 1
+64{68}
+[INTEGER $temp22]
+referentce 2
+66{68}
+[INTEGER $temp23]
+referentce 2
+68{69}
+[INTEGER $temp24]
+referentce 2
+69{70}
+[INTEGER index]
+referentce 7
+70{71,75,76,80}
+73{75,76,80}
+81{75,76,80}
+[INTEGER $temp25]
+referentce 1
+76{78}
+[INTEGER $temp26]
+referentce 2
+80{81}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 3
+9{43,48}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{50,54,57,76}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 8
+25{27,28,31,32,37,45}
+33{27,28,31,32,37,45}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{60,64,66}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+41{43}
+[INTEGER $temp9]
+referentce 1
+46{48}
+[INTEGER $temp10]
+referentce 1
+48{50}
+[INTEGER $temp11]
+referentce 2
+50{51}
+[INTEGER $temp12]
+referentce 2
+51{54}
+[INTEGER $temp13]
+referentce 1
+52{54}
+[INTEGER $temp14]
+referentce 2
+54{57}
+[INTEGER $temp15]
+referentce 1
+55{57}
+[INTEGER $temp16]
+referentce 2
+57{60}
+[INTEGER $temp17]
+referentce 1
+58{60}
+[INTEGER $temp18]
+referentce 2
+60{67}
+[INTEGER $temp19]
+referentce 1
+61{64}
+[INTEGER $temp20]
+referentce 1
+62{66}
+[INTEGER $temp21]
+referentce 2
+64{66}
+[INTEGER $temp22]
+referentce 2
+66{67}
+[INTEGER $temp23]
+referentce 2
+67{68}
+[INTEGER index]
+referentce 7
+68{69,73,74,78}
+71{73,74,78}
+79{73,74,78}
+[INTEGER $temp24]
+referentce 1
+74{76}
+[INTEGER $temp25]
+referentce 2
+78{79}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 4
+9{38,54,59}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{61,65,68,87}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{71,75,77}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+36{38}
+[INTEGER index]
+referentce 7
+38{40,43,48,56}
+43{40,43,44,48,56}
+[INTEGER $temp10]
+referentce 1
+52{54}
+[INTEGER $temp11]
+referentce 1
+57{59}
+[INTEGER $temp12]
+referentce 1
+59{61}
+[INTEGER $temp13]
+referentce 2
+61{62}
+[INTEGER $temp14]
+referentce 2
+62{65}
+[INTEGER $temp15]
+referentce 1
+63{65}
+[INTEGER $temp16]
+referentce 2
+65{68}
+[INTEGER $temp17]
+referentce 1
+66{68}
+[INTEGER $temp18]
+referentce 2
+68{71}
+[INTEGER $temp19]
+referentce 1
+69{71}
+[INTEGER $temp20]
+referentce 2
+71{78}
+[INTEGER $temp21]
+referentce 1
+72{75}
+[INTEGER $temp22]
+referentce 1
+73{77}
+[INTEGER $temp23]
+referentce 2
+75{77}
+[INTEGER $temp24]
+referentce 2
+77{78}
+[INTEGER $temp25]
+referentce 2
+78{79}
+[INTEGER index]
+referentce 7
+79{80,84,85,89}
+82{84,85,89}
+90{84,85,89}
+[INTEGER $temp26]
+referentce 1
+85{87}
+[INTEGER $temp27]
+referentce 2
+89{90}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[a0[10]:INTEGER]
+referentce 3
+9{38,52}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 6
+14{16,17,20,21}
+22{16,17,20,21}
+[INTEGER $temp2]
+referentce 2
+17{18}
+[INTEGER $temp3]
+referentce 1
+18{20}
+[a1[10]:INTEGER]
+referentce 5
+20{54,58,61,80}
+[INTEGER $temp4]
+referentce 2
+21{22}
+[INTEGER index]
+referentce 6
+25{27,28,31,32}
+33{27,28,31,32}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 1
+29{31}
+[b0[10]:INTEGER]
+referentce 4
+31{64,68,70}
+[INTEGER $temp7]
+referentce 2
+32{33}
+[INTEGER $temp8]
+referentce 1
+36{38}
+[INTEGER index]
+referentce 6
+38{40,43,48}
+43{40,43,44,48}
+[INTEGER $temp10]
+referentce 1
+50{52}
+[INTEGER $temp11]
+referentce 1
+52{54}
+[INTEGER $temp12]
+referentce 2
+54{55}
+[INTEGER $temp13]
+referentce 2
+55{58}
+[INTEGER $temp14]
+referentce 1
+56{58}
+[INTEGER $temp15]
+referentce 2
+58{61}
+[INTEGER $temp16]
+referentce 1
+59{61}
+[INTEGER $temp17]
+referentce 2
+61{64}
+[INTEGER $temp18]
+referentce 1
+62{64}
+[INTEGER $temp19]
+referentce 2
+64{71}
+[INTEGER $temp20]
+referentce 1
+65{68}
+[INTEGER $temp21]
+referentce 1
+66{70}
+[INTEGER $temp22]
+referentce 2
+68{70}
+[INTEGER $temp23]
+referentce 2
+70{71}
+[INTEGER $temp24]
+referentce 2
+71{72}
+[INTEGER index]
+referentce 7
+72{73,77,78,82}
+75{77,78,82}
+83{77,78,82}
+[INTEGER $temp25]
+referentce 1
+78{80}
+[INTEGER $temp26]
+referentce 2
+82{83}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 3
+12{41,55}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+20{21}
+[INTEGER $temp3]
+referentce 1
+21{23}
+[a1[10]:INTEGER]
+referentce 5
+23{57,61,64,83}
+[INTEGER $temp4]
+referentce 2
+24{25}
+[INTEGER $temp5]
+referentce 2
+31{32}
+[INTEGER $temp6]
+referentce 1
+32{34}
+[b0[10]:INTEGER]
+referentce 4
+34{67,71,73}
+[INTEGER $temp7]
+referentce 2
+35{36}
+[INTEGER $temp8]
+referentce 1
+39{41}
+[INTEGER $temp10]
+referentce 1
+53{55}
+[INTEGER $temp11]
+referentce 1
+55{57}
+[INTEGER $temp12]
+referentce 2
+57{58}
+[INTEGER $temp13]
+referentce 2
+58{61}
+[INTEGER $temp14]
+referentce 1
+59{61}
+[INTEGER $temp15]
+referentce 2
+61{64}
+[INTEGER $temp16]
+referentce 1
+62{64}
+[INTEGER $temp17]
+referentce 2
+64{67}
+[INTEGER $temp18]
+referentce 1
+65{67}
+[INTEGER $temp19]
+referentce 2
+67{74}
+[INTEGER $temp20]
+referentce 1
+68{71}
+[INTEGER $temp21]
+referentce 1
+69{73}
+[INTEGER $temp22]
+referentce 2
+71{73}
+[INTEGER $temp23]
+referentce 2
+73{74}
+[INTEGER $temp24]
+referentce 2
+74{75}
+[INTEGER $temp25]
+referentce 1
+81{83}
+[INTEGER $temp26]
+referentce 2
+85{86}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[INTEGER $temp1]
+referentce 1
+11{13}
+[a0[10]:INTEGER]
+referentce 3
+13{45,59}
+[INTEGER $temp2]
+referentce 2
+14{15}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER $temp5]
+referentce 1
+23{25}
+[a1[10]:INTEGER]
+referentce 5
+25{61,65,68,88}
+[INTEGER $temp6]
+referentce 2
+26{27}
+[INTEGER $temp8]
+referentce 2
+34{35}
+[INTEGER $temp9]
+referentce 1
+35{37}
+[b0[10]:INTEGER]
+referentce 4
+37{71,75,77}
+[INTEGER $temp10]
+referentce 2
+38{39}
+[INTEGER $temp12]
+referentce 1
+43{45}
+[INTEGER $temp14]
+referentce 1
+57{59}
+[INTEGER $temp15]
+referentce 1
+59{61}
+[INTEGER $temp16]
+referentce 2
+61{62}
+[INTEGER $temp17]
+referentce 2
+62{65}
+[INTEGER $temp18]
+referentce 1
+63{65}
+[INTEGER $temp19]
+referentce 2
+65{68}
+[INTEGER $temp20]
+referentce 1
+66{68}
+[INTEGER $temp21]
+referentce 2
+68{71}
+[INTEGER $temp22]
+referentce 1
+69{71}
+[INTEGER $temp23]
+referentce 2
+71{78}
+[INTEGER $temp24]
+referentce 1
+72{75}
+[INTEGER $temp25]
+referentce 1
+73{77}
+[INTEGER $temp26]
+referentce 2
+75{77}
+[INTEGER $temp27]
+referentce 2
+77{78}
+[INTEGER $temp28]
+referentce 2
+78{79}
+[INTEGER $temp30]
+referentce 1
+86{88}
+[INTEGER $temp31]
+referentce 2
+90{91}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[INTEGER $temp1]
+referentce 1
+11{13}
+[a0[10]:INTEGER]
+referentce 3
+13{45,59}
+[INTEGER $temp2]
+referentce 2
+14{15}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER $temp5]
+referentce 1
+23{25}
+[a1[10]:INTEGER]
+referentce 5
+25{61,65,68,88}
+[INTEGER $temp6]
+referentce 2
+26{27}
+[INTEGER $temp8]
+referentce 2
+34{35}
+[INTEGER $temp9]
+referentce 1
+35{37}
+[b0[10]:INTEGER]
+referentce 4
+37{71,75,77}
+[INTEGER $temp10]
+referentce 2
+38{39}
+[INTEGER $temp12]
+referentce 1
+43{45}
+[INTEGER $temp14]
+referentce 1
+57{59}
+[INTEGER $temp15]
+referentce 1
+59{61}
+[INTEGER $temp16]
+referentce 2
+61{62}
+[INTEGER $temp17]
+referentce 2
+62{65}
+[INTEGER $temp18]
+referentce 1
+63{65}
+[INTEGER $temp19]
+referentce 2
+65{68}
+[INTEGER $temp20]
+referentce 1
+66{68}
+[INTEGER $temp21]
+referentce 2
+68{71}
+[INTEGER $temp22]
+referentce 1
+69{71}
+[INTEGER $temp23]
+referentce 2
+71{78}
+[INTEGER $temp24]
+referentce 1
+72{75}
+[INTEGER $temp25]
+referentce 1
+73{77}
+[INTEGER $temp26]
+referentce 2
+75{77}
+[INTEGER $temp27]
+referentce 2
+77{78}
+[INTEGER $temp28]
+referentce 2
+78{79}
+[INTEGER $temp30]
+referentce 1
+86{88}
+[INTEGER $temp31]
+referentce 2
+90{91}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[INTEGER $temp1]
+referentce 1
+11{13}
+[a0[10]:INTEGER]
+referentce 3
+13{45,59}
+[INTEGER $temp2]
+referentce 2
+14{15}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER $temp5]
+referentce 1
+23{25}
+[a1[10]:INTEGER]
+referentce 5
+25{61,65,68,88}
+[INTEGER $temp6]
+referentce 2
+26{27}
+[INTEGER $temp8]
+referentce 2
+34{35}
+[INTEGER $temp9]
+referentce 1
+35{37}
+[b0[10]:INTEGER]
+referentce 4
+37{71,75,77}
+[INTEGER $temp10]
+referentce 2
+38{39}
+[INTEGER $temp12]
+referentce 1
+43{45}
+[INTEGER $temp14]
+referentce 1
+57{59}
+[INTEGER $temp15]
+referentce 1
+59{61}
+[INTEGER $temp16]
+referentce 2
+61{62}
+[INTEGER $temp17]
+referentce 2
+62{65}
+[INTEGER $temp18]
+referentce 1
+63{65}
+[INTEGER $temp19]
+referentce 2
+65{68}
+[INTEGER $temp20]
+referentce 1
+66{68}
+[INTEGER $temp21]
+referentce 2
+68{71}
+[INTEGER $temp22]
+referentce 1
+69{71}
+[INTEGER $temp23]
+referentce 2
+71{78}
+[INTEGER $temp24]
+referentce 1
+72{75}
+[INTEGER $temp25]
+referentce 1
+73{77}
+[INTEGER $temp26]
+referentce 2
+75{77}
+[INTEGER $temp27]
+referentce 2
+77{78}
+[INTEGER $temp28]
+referentce 2
+78{79}
+[INTEGER $temp30]
+referentce 1
+86{88}
+[INTEGER $temp31]
+referentce 2
+90{91}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER $temp0]
+referentce 5
+7{10,14}
+8{10,14}
+15{10,14}
+[INTEGER $temp1]
+referentce 1
+11{13}
+[a0[10]:INTEGER]
+referentce 3
+13{45,59}
+[INTEGER $temp2]
+referentce 2
+14{15}
+[INTEGER $temp3]
+referentce 5
+18{21,26}
+19{21,26}
+27{21,26}
+[INTEGER $temp4]
+referentce 2
+22{23}
+[INTEGER $temp5]
+referentce 1
+23{25}
+[a1[10]:INTEGER]
+referentce 5
+25{61,65,68,88}
+[INTEGER $temp6]
+referentce 2
+26{27}
+[INTEGER $temp7]
+referentce 5
+30{33,38}
+31{33,38}
+39{33,38}
+[INTEGER $temp8]
+referentce 2
+34{35}
+[INTEGER $temp9]
+referentce 1
+35{37}
+[b0[10]:INTEGER]
+referentce 4
+37{71,75,77}
+[INTEGER $temp10]
+referentce 2
+38{39}
+[INTEGER $temp11]
+referentce 5
+42{47,50}
+45{47,50}
+51{47,50}
+[INTEGER $temp12]
+referentce 1
+43{45}
+[INTEGER $temp13]
+referentce 2
+50{51}
+[INTEGER $temp14]
+referentce 1
+57{59}
+[INTEGER $temp15]
+referentce 1
+59{61}
+[INTEGER $temp16]
+referentce 2
+61{62}
+[INTEGER $temp17]
+referentce 2
+62{65}
+[INTEGER $temp18]
+referentce 1
+63{65}
+[INTEGER $temp19]
+referentce 2
+65{68}
+[INTEGER $temp20]
+referentce 1
+66{68}
+[INTEGER $temp21]
+referentce 2
+68{71}
+[INTEGER $temp22]
+referentce 1
+69{71}
+[INTEGER $temp23]
+referentce 2
+71{78}
+[INTEGER $temp24]
+referentce 1
+72{75}
+[INTEGER $temp25]
+referentce 1
+73{77}
+[INTEGER $temp26]
+referentce 2
+75{77}
+[INTEGER $temp27]
+referentce 2
+77{78}
+[INTEGER $temp28]
+referentce 2
+78{79}
+[INTEGER $temp29]
+referentce 5
+82{85,90}
+83{85,90}
+91{85,90}
+[INTEGER $temp30]
+referentce 1
+86{88}
+[INTEGER $temp31]
+referentce 2
+90{91}
+0	1	0	0	0	
+1	0	1	1	1	
+0	1	0	0	0	
+0	1	0	0	0	
+0	1	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{22}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 1
+20{22}
+[INTEGER $temp3]
+referentce 2
+24{25}
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{33}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+20{21}
+[INTEGER $temp3]
+referentce 1
+21{23}
+[a1[10]:INTEGER]
+referentce 3
+23{41,45}
+[INTEGER $temp4]
+referentce 2
+24{25}
+[INTEGER $temp5]
+referentce 1
+31{33}
+[INTEGER $temp6]
+referentce 2
+35{36}
+[INTEGER $temp7]
+referentce 1
+39{41}
+[INTEGER $temp8]
+referentce 1
+43{45}
+[INTEGER $temp9]
+referentce 2
+45{46}
+[INTEGER $temp10]
+referentce 2
+49{50}
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{33}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+20{21}
+[INTEGER $temp3]
+referentce 1
+21{23}
+[a1[10]:INTEGER]
+referentce 3
+23{41,45}
+[INTEGER $temp4]
+referentce 2
+24{25}
+[INTEGER $temp5]
+referentce 1
+31{33}
+[INTEGER $temp6]
+referentce 2
+35{36}
+[INTEGER $temp7]
+referentce 1
+39{41}
+[INTEGER $temp8]
+referentce 1
+43{45}
+[INTEGER $temp9]
+referentce 2
+45{46}
+[INTEGER $temp10]
+referentce 2
+49{50}
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{33}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+20{21}
+[INTEGER $temp3]
+referentce 1
+21{23}
+[a1[10]:INTEGER]
+referentce 3
+23{41,45}
+[INTEGER $temp4]
+referentce 2
+24{25}
+[INTEGER $temp5]
+referentce 1
+31{33}
+[INTEGER $temp6]
+referentce 2
+35{36}
+[INTEGER $temp7]
+referentce 1
+39{41}
+[INTEGER $temp8]
+referentce 1
+43{45}
+[INTEGER $temp9]
+referentce 2
+45{46}
+[INTEGER $temp10]
+referentce 2
+49{50}
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{35}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+20{21}
+[INTEGER $temp3]
+referentce 1
+21{23}
+[a1[10]:INTEGER]
+referentce 3
+23{43,47}
+[INTEGER $temp4]
+referentce 2
+24{25}
+[INTEGER $temp5]
+referentce 1
+33{35}
+[INTEGER $temp6]
+referentce 2
+37{38}
+[INTEGER $temp7]
+referentce 1
+41{43}
+[INTEGER $temp8]
+referentce 1
+45{47}
+[INTEGER $temp9]
+referentce 2
+47{48}
+[INTEGER $temp10]
+referentce 2
+51{52}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{44}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+20{21}
+[INTEGER $temp3]
+referentce 1
+21{23}
+[a1[10]:INTEGER]
+referentce 3
+23{52,56}
+[INTEGER $temp4]
+referentce 2
+24{25}
+[INTEGER $temp5]
+referentce 2
+33{34}
+[INTEGER $temp6]
+referentce 1
+42{44}
+[INTEGER $temp7]
+referentce 2
+46{47}
+[INTEGER $temp8]
+referentce 1
+50{52}
+[INTEGER $temp9]
+referentce 1
+54{56}
+[INTEGER $temp10]
+referentce 2
+56{57}
+[INTEGER $temp11]
+referentce 2
+60{61}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{47}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+21{22}
+[INTEGER $temp3]
+referentce 1
+22{24}
+[a1[10]:INTEGER]
+referentce 3
+24{56,60}
+[INTEGER $temp4]
+referentce 2
+25{26}
+[INTEGER $temp5]
+referentce 2
+35{36}
+[INTEGER $temp6]
+referentce 1
+45{47}
+[INTEGER $temp7]
+referentce 2
+49{50}
+[INTEGER $temp8]
+referentce 1
+54{56}
+[INTEGER $temp9]
+referentce 1
+58{60}
+[INTEGER $temp10]
+referentce 3
+60{61,68}
+[INTEGER $temp11]
+referentce 2
+64{65}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{47}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+21{22}
+[INTEGER $temp3]
+referentce 1
+22{24}
+[a1[10]:INTEGER]
+referentce 3
+24{56,60}
+[INTEGER $temp4]
+referentce 2
+25{26}
+[INTEGER $temp5]
+referentce 2
+35{36}
+[INTEGER $temp6]
+referentce 1
+45{47}
+[INTEGER $temp7]
+referentce 2
+49{50}
+[INTEGER $temp8]
+referentce 1
+54{56}
+[INTEGER $temp9]
+referentce 1
+58{60}
+[INTEGER $temp10]
+referentce 3
+60{61,68}
+[INTEGER $temp11]
+referentce 2
+64{65}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{47}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+21{22}
+[INTEGER $temp3]
+referentce 1
+22{24}
+[a1[10]:INTEGER]
+referentce 3
+24{56,60}
+[INTEGER $temp4]
+referentce 2
+25{26}
+[INTEGER $temp5]
+referentce 2
+35{36}
+[INTEGER $temp6]
+referentce 1
+45{47}
+[INTEGER $temp7]
+referentce 2
+49{50}
+[INTEGER $temp8]
+referentce 1
+54{56}
+[INTEGER $temp9]
+referentce 1
+58{60}
+[INTEGER $temp10]
+referentce 3
+60{61,68}
+[INTEGER $temp11]
+referentce 2
+64{65}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	1	1	1	1	1	1	1	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	
+0	0	0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 1
+10{12}
+[a0[10]:INTEGER]
+referentce 2
+12{47}
+[INTEGER $temp1]
+referentce 2
+13{14}
+[INTEGER $temp2]
+referentce 2
+21{22}
+[INTEGER $temp3]
+referentce 1
+22{24}
+[a1[10]:INTEGER]
+referentce 3
+24{56,60}
+[INTEGER $temp4]
+referentce 2
+25{26}
+[INTEGER $temp5]
+referentce 2
+35{36}
+[INTEGER $temp6]
+referentce 1
+45{47}
+[INTEGER $temp7]
+referentce 2
+49{50}
+[INTEGER $temp8]
+referentce 1
+54{56}
+[INTEGER $temp9]
+referentce 1
+58{60}
+[INTEGER $temp10]
+referentce 3
+60{61,68}
+[INTEGER $temp11]
+referentce 2
+64{65}
+0	1	1	1	1	1	1	1	
+1	0	1	1	0	0	0	0	
+1	1	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	
+1	0	0	0	0	1	1	1	
+1	0	0	0	1	0	1	1	
+1	0	0	0	1	1	0	0	
+1	0	0	0	1	1	0	0	
+[INTEGER a]
+referentce 6
+4{5,7}
+8{7,12,22}
+[INTEGER i]
+referentce 5
+5{7,9}
+10{7,9,11}
+[INTEGER $temp0]
+referentce 2
+7{8}
+[INTEGER $temp1]
+referentce 2
+9{10}
+[INTEGER b]
+referentce 4
+12{15}
+16{15,20}
+[INTEGER i]
+referentce 5
+13{15,17}
+18{15,17,19}
+[INTEGER $temp2]
+referentce 2
+15{16}
+[INTEGER $temp3]
+referentce 2
+17{18}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	1	0	1	1	1	1	1	1	0	0	0	
+0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	1	1	0	1	0	0	0	0	0	0	
+0	0	0	0	1	0	1	0	1	1	0	0	0	0	
+0	0	0	0	1	0	0	1	0	1	0	0	0	0	
+0	0	0	0	1	0	0	1	1	0	1	1	0	0	
+0	0	0	0	1	0	0	0	0	1	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[INTEGER $temp0]
+referentce 2
+4{5}
+[INTEGER $temp1]
+referentce 2
+5{6}
+[INTEGER i]
+referentce 2
+6{10}
+[CHAR $temp2]
+referentce 1
+7{9}
+[ar[100]:INTEGER]
+referentce 2
+9{22}
+[INTEGER $temp3]
+referentce 2
+12{13}
+[INTEGER $temp4]
+referentce 2
+13{14}
+[CHAR ch]
+referentce 2
+14{18}
+[INTEGER $temp5]
+referentce 1
+15{17}
+[car[10]:CHAR]
+referentce 2
+17{26}
+[INTEGER $temp6]
+referentce 1
+20{22}
+[INTEGER $temp7]
+referentce 1
+24{26}
+[CHAR $temp8]
+referentce 2
+30{32}
+[CHAR $temp9]
+referentce 2
+36{38}
+0	1	
+1	0	
+[arg CHAR i]
+referentce 2
+42{43}
+[INTEGER $temp0]
+referentce 2
+43{44}
+0	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	
+0	1	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	
+0	1	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	1	0	1	1	0	1	1	1	1	1	1	1	1	0	0	0	0	0	
+1	1	0	1	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	0	0	0	0	
+1	1	0	1	0	0	1	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	0	0	0	
+1	1	0	1	0	0	1	0	1	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	
+1	0	0	1	0	0	1	0	1	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	1	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+[INTEGER a]
+referentce 5
+4{5,12,52}
+17{52}
+[INTEGER t1]
+referentce 6
+5{6,8,10,18,24}
+[INTEGER $temp0]
+referentce 2
+6{7}
+[INTEGER t2]
+referentce 5
+7{28}
+9{28}
+11{15,28}
+[INTEGER $temp1]
+referentce 2
+8{9}
+[INTEGER $temp2]
+referentce 2
+10{11}
+[INTEGER b]
+referentce 5
+12{13,20,48}
+22{48}
+[INTEGER $temp3]
+referentce 2
+13{14}
+[INTEGER t3]
+referentce 3
+14{15,32}
+[INTEGER $temp4]
+referentce 2
+15{16}
+[INTEGER t4]
+referentce 3
+16{17,36}
+[INTEGER $temp5]
+referentce 2
+18{19}
+[INTEGER t5]
+referentce 3
+19{20,40}
+[INTEGER $temp6]
+referentce 2
+20{21}
+[INTEGER t6]
+referentce 3
+21{22,44}
+[INTEGER pass]
+referentce 18
+23{25,29,33,37,41,45,49,53,56}
+26{29,33,37,41,45,49,53,56}
+30{33,37,41,45,49,53,56}
+34{37,41,45,49,53,56}
+38{41,45,49,53,56}
+42{45,49,53,56}
+46{49,53,56}
+50{53,56}
+54{56}
+[INTEGER $temp7]
+referentce 2
+25{26}
+[INTEGER $temp8]
+referentce 2
+29{30}
+[INTEGER $temp9]
+referentce 2
+33{34}
+[INTEGER $temp10]
+referentce 2
+37{38}
+[INTEGER $temp11]
+referentce 2
+41{42}
+[INTEGER $temp12]
+referentce 2
+45{46}
+[INTEGER $temp13]
+referentce 2
+49{50}
+[INTEGER $temp14]
+referentce 2
+53{54}
+0	1	1	1	0	0	0	1	1	1	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	1	0	0	0	0	
+1	0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	0	
+0	0	0	0	0	0	0	0	0	0	1	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	0	
+[arg INTEGER i]
+referentce 8
+14{15,19,21,22,32,34,35}
+[INTEGER $temp0]
+referentce 2
+19{20}
+[INTEGER $temp1]
+referentce 2
+20{21}
+[INTEGER $temp2]
+referentce 2
+22{23}
+[INTEGER $temp3]
+referentce 2
+25{27}
+[INTEGER $temp4]
+referentce 2
+27{28}
+[INTEGER $temp5]
+referentce 2
+28{29}
+[INTEGER $temp6]
+referentce 2
+32{33}
+[INTEGER $temp7]
+referentce 2
+33{34}
+[INTEGER $temp8]
+referentce 2
+35{36}
+[INTEGER $temp9]
+referentce 2
+38{40}
+[INTEGER $temp10]
+referentce 2
+40{41}
+[INTEGER $temp11]
+referentce 2
+41{42}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+[INTEGER $temp0]
+referentce 2
+44{45}
+[INTEGER $temp1]
+referentce 2
+45{49}
+[INTEGER $temp2]
+referentce 2
+46{47}
+[INTEGER $temp3]
+referentce 2
+47{48}
+[INTEGER $temp4]
+referentce 2
+48{49}
+[INTEGER $temp5]
+referentce 2
+49{50}
+[INTEGER $temp6]
+referentce 2
+50{51}
+[INTEGER $temp7]
+referentce 2
+51{52}
+[INTEGER $temp8]
+referentce 2
+52{62}
+[INTEGER $temp9]
+referentce 2
+53{54}
+[INTEGER $temp10]
+referentce 2
+54{55}
+[INTEGER $temp11]
+referentce 2
+55{56}
+[INTEGER $temp12]
+referentce 2
+56{57}
+[INTEGER $temp13]
+referentce 2
+57{59}
+[INTEGER $temp14]
+referentce 2
+58{59}
+[INTEGER $temp15]
+referentce 2
+59{60}
+[INTEGER $temp16]
+referentce 2
+60{61}
+[INTEGER $temp17]
+referentce 2
+61{62}
+[INTEGER $temp18]
+referentce 2
+66{68}
+[INTEGER $temp19]
+referentce 2
+67{68}
+[INTEGER $temp20]
+referentce 2
+72{74}
+[INTEGER $temp21]
+referentce 2
+73{74}
+0	
+[INTEGER vn]
+referentce 2
+4{5}
+0	
+[arg INTEGER y]
+referentce 2
+19{20}
+0	
+[arg INTEGER y]
+referentce 2
+28{29}
+0	1	0	
+1	0	0	
+0	0	0	
+[arg INTEGER x]
+referentce 2
+34{35}
+[INTEGER t]
+referentce 2
+35{36}
+[INTEGER $temp0]
+referentce 2
+38{40}
+0	1	0	0	0	
+1	0	1	0	0	
+0	1	0	0	0	
+0	0	0	0	1	
+0	0	0	1	0	
+[INTEGER $temp0]
+referentce 2
+44{45}
+[INTEGER t]
+referentce 2
+45{51}
+[INTEGER $temp1]
+referentce 2
+46{47}
+[INTEGER $temp2]
+referentce 2
+53{55}
+[INTEGER $temp3]
+referentce 2
+55{56}
+0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	
+0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER index]
+referentce 6
+4{6,7,9,10}
+11{6,7,9,10}
+[INTEGER $temp0]
+referentce 1
+7{9}
+[c[10]:INTEGER]
+referentce 7
+9{20,33,46,48,53,58}
+[INTEGER $temp1]
+referentce 2
+10{11}
+[INTEGER index]
+referentce 7
+14{17,18,22,23}
+15{17,18,22,23}
+24{17,18,22,23}
+[INTEGER $temp2]
+referentce 1
+18{20}
+[INTEGER $temp3]
+referentce 1
+20{22}
+[b[10]:INTEGER]
+referentce 7
+22{35,50,56,71,74,77}
+[INTEGER $temp4]
+referentce 2
+23{24}
+[INTEGER index]
+referentce 7
+27{30,31,37,38}
+28{30,31,37,38}
+39{30,31,37,38}
+[INTEGER $temp5]
+referentce 1
+31{33}
+[INTEGER $temp6]
+referentce 1
+33{35}
+[INTEGER $temp7]
+referentce 1
+35{37}
+[a[10]:INTEGER]
+referentce 5
+37{63,65,67,85}
+[INTEGER $temp8]
+referentce 2
+38{39}
+[INTEGER index]
+referentce 6
+42{82,83,87}
+80{82,83,87}
+88{82,83,87}
+[INTEGER $temp9]
+referentce 1
+43{48}
+[INTEGER $temp10]
+referentce 1
+44{46}
+[INTEGER $temp11]
+referentce 1
+46{50}
+[INTEGER $temp12]
+referentce 2
+48{50}
+[INTEGER $temp13]
+referentce 2
+50{68}
+[INTEGER $temp14]
+referentce 1
+51{53}
+[INTEGER $temp15]
+referentce 1
+53{56}
+[INTEGER $temp16]
+referentce 1
+54{58}
+[INTEGER $temp17]
+referentce 2
+56{58}
+[INTEGER $temp18]
+referentce 2
+58{59}
+[INTEGER $temp19]
+referentce 1
+59{67}
+[INTEGER $temp20]
+referentce 1
+60{63}
+[INTEGER $temp21]
+referentce 1
+61{65}
+[INTEGER $temp22]
+referentce 2
+63{65}
+[INTEGER $temp23]
+referentce 2
+65{67}
+[INTEGER $temp24]
+referentce 2
+67{68}
+[INTEGER $temp25]
+referentce 2
+68{71}
+[INTEGER $temp26]
+referentce 1
+69{71}
+[INTEGER $temp27]
+referentce 2
+71{74}
+[INTEGER $temp28]
+referentce 1
+72{74}
+[INTEGER $temp29]
+referentce 2
+74{77}
+[INTEGER $temp30]
+referentce 1
+75{77}
+[INTEGER $temp31]
+referentce 2
+77{78}
+[INTEGER $temp32]
+referentce 2
+78{79}
+[INTEGER final]
+referentce 2
+79{93}
+[INTEGER $temp33]
+referentce 1
+83{85}
+[INTEGER $temp34]
+referentce 2
+87{88}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+[arg INTEGER l]
+referentce 4
+38{40,87,89}
+[arg INTEGER h]
+referentce 4
+39{41,92,93}
+[INTEGER i]
+referentce 13
+40{42,49,54,73,77,81,86,92,94}
+55{49,54,56,73,77,81,86,92,94}
+82{49,54,73,77,81,86,92,94}
+[INTEGER j]
+referentce 13
+41{42,61,66,73,74,83,86,87,88}
+67{61,66,68,73,74,83,86,87,88}
+84{61,66,73,74,83,86,87,88}
+[INTEGER $temp0]
+referentce 2
+42{43}
+[INTEGER $temp1]
+referentce 2
+43{44}
+[INTEGER $temp2]
+referentce 1
+44{46}
+[INTEGER $temp3]
+referentce 2
+46{47}
+[INTEGER m]
+referentce 5
+47{52,59,64,71}
+[INTEGER $temp4]
+referentce 1
+49{51}
+[INTEGER $temp5]
+referentce 2
+51{52}
+[INTEGER $temp6]
+referentce 2
+54{55}
+[INTEGER $temp7]
+referentce 1
+56{58}
+[INTEGER $temp8]
+referentce 2
+58{59}
+[INTEGER $temp9]
+referentce 1
+61{63}
+[INTEGER $temp10]
+referentce 2
+63{64}
+[INTEGER $temp11]
+referentce 2
+66{67}
+[INTEGER $temp12]
+referentce 1
+68{70}
+[INTEGER $temp13]
+referentce 2
+70{71}
+[INTEGER $temp14]
+referentce 1
+74{76}
+[INTEGER $temp15]
+referentce 1
+77{79}
+[INTEGER $temp16]
+referentce 2
+81{82}
+[INTEGER $temp17]
+referentce 2
+83{84}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+101{102}
+[INTEGER temp]
+referentce 2
+102{105}
+[INTEGER $temp1]
+referentce 2
+103{104}
+0	1	1	1	1	0	
+1	0	1	1	1	0	
+1	1	0	0	0	0	
+1	1	0	0	0	0	
+1	1	0	0	0	0	
+0	0	0	0	0	0	
+[arg INTEGER i]
+referentce 8
+12{14,15,17,19,26,27,29}
+[arg INTEGER j]
+referentce 7
+13{14,17,18,19,26,27}
+[INTEGER $temp0]
+referentce 2
+19{20}
+[INTEGER $temp1]
+referentce 2
+22{24}
+[INTEGER $temp2]
+referentce 2
+27{28}
+[INTEGER $temp3]
+referentce 2
+31{33}
+0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	
+1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+[INTEGER a]
+referentce 12
+6{8,14,17,28,39,42,53,64,72,83,86}
+[INTEGER b]
+referentce 6
+7{11,25,50,61,75}
+[INTEGER $temp0]
+referentce 1
+8{10}
+[e[10]:INTEGER]
+referentce 6
+10{16,30,41,74,85}
+[INTEGER $temp1]
+referentce 1
+11{13}
+[f[10]:INTEGER]
+referentce 4
+13{27,52,63}
+[INTEGER $temp2]
+referentce 1
+14{16}
+[INTEGER $temp3]
+referentce 2
+16{17}
+[INTEGER $temp4]
+referentce 1
+25{27}
+[INTEGER $temp5]
+referentce 2
+27{31}
+[INTEGER $temp6]
+referentce 1
+28{30}
+[INTEGER $temp7]
+referentce 2
+30{31}
+[INTEGER $temp8]
+referentce 1
+39{41}
+[INTEGER $temp9]
+referentce 2
+41{42}
+[INTEGER $temp10]
+referentce 1
+50{52}
+[INTEGER $temp11]
+referentce 2
+52{53}
+[INTEGER $temp12]
+referentce 1
+61{63}
+[INTEGER $temp13]
+referentce 2
+63{64}
+[INTEGER $temp14]
+referentce 1
+72{74}
+[INTEGER $temp15]
+referentce 2
+74{75}
+[INTEGER $temp16]
+referentce 1
+83{85}
+[INTEGER $temp17]
+referentce 2
+85{86}
+0	
+[INTEGER i1]
+referentce 3
+6{7,9}
+0	
+[INTEGER i2]
+referentce 3
+15{18,20}
+0	
+[INTEGER i3]
+referentce 3
+27{32,34}
+0	
+[INTEGER i4]
+referentce 3
+42{49,51}
+0	
+[INTEGER i5]
+referentce 3
+60{69,71}
+0	
+[INTEGER i6]
+referentce 2
+81{92}
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+[INTEGER $temp0]
+referentce 1
+4{6}
+[he[10]:INTEGER]
+referentce 13
+6{27,30,34,37,56}
+9{27,30,34,37,56}
+12{27,30,34,37,56}
+15{27,30,34,37,56}
+18{27,30,34,37,56}
+59{56,64,71}
+[INTEGER $temp1]
+referentce 1
+7{9}
+[INTEGER $temp2]
+referentce 1
+10{12}
+[INTEGER $temp3]
+referentce 1
+13{15}
+[INTEGER $temp4]
+referentce 1
+16{18}
+[INTEGER i]
+referentce 6
+19{21,25,35,45}
+46{21,25,35,45}
+[INTEGER j]
+referentce 6
+22{24,28,32,40}
+41{24,28,32,40}
+[INTEGER $temp5]
+referentce 1
+25{27}
+[INTEGER $temp6]
+referentce 2
+27{31}
+[INTEGER $temp7]
+referentce 1
+28{30}
+[INTEGER $temp8]
+referentce 2
+30{31}
+[INTEGER $temp9]
+referentce 1
+32{34}
+[INTEGER $temp10]
+referentce 1
+35{37}
+[INTEGER $temp11]
+referentce 2
+40{41}
+[INTEGER $temp12]
+referentce 2
+45{46}
+[INTEGER i]
+referentce 7
+49{54,57,60}
+50{54,57,60}
+61{54,57,60,62}
+[INTEGER $temp13]
+referentce 1
+54{56}
+[INTEGER $temp14]
+referentce 2
+56{59}
+[INTEGER $temp15]
+referentce 1
+57{59}
+[INTEGER $temp16]
+referentce 2
+60{61}
+[INTEGER $temp17]
+referentce 1
+62{64}
+[INTEGER $temp18]
+referentce 2
+64{65}
+[INTEGER i]
+referentce 5
+66{68,69,73}
+74{68,69,73}
+[INTEGER $temp19]
+referentce 1
+69{71}
+[INTEGER $temp20]
+referentce 2
+73{74}
+0	1	0	
+1	0	1	
+0	1	0	
+[INTEGER $temp0]
+referentce 2
+82{83}
+[INTEGER temp]
+referentce 2
+83{86}
+[INTEGER $temp1]
+referentce 2
+84{85}
+0	1	1	1	
+1	0	1	0	
+1	1	0	1	
+1	0	1	0	
+[INTEGER $temp0]
+referentce 2
+11{17}
+[INTEGER $temp1]
+referentce 1
+13{15}
+[INTEGER $temp2]
+referentce 1
+15{17}
+[INTEGER $temp3]
+referentce 2
+17{18}
+0	1	1	1	
+1	0	0	0	
+1	0	0	1	
+1	0	1	0	
+[arg INTEGER n]
+referentce 5
+22{23,24,27,32}
+[INTEGER $temp0]
+referentce 2
+27{28}
+[INTEGER $temp1]
+referentce 2
+30{32}
+[INTEGER $temp2]
+referentce 2
+32{33}
+0	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	1	1	1	1	0	0	0	0	
+0	0	0	1	0	1	0	0	0	0	0	0	
+0	0	0	1	1	0	1	0	0	0	0	0	
+0	0	0	1	0	1	0	1	0	0	0	0	
+0	0	0	1	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	1	0	
+[INTEGER $temp0]
+referentce 1
+37{39}
+[INTEGER $temp1]
+referentce 1
+40{42}
+[INTEGER $temp2]
+referentce 1
+42{44}
+[INTEGER $temp3]
+referentce 1
+45{52}
+[INTEGER $temp4]
+referentce 1
+46{48}
+[INTEGER $temp5]
+referentce 1
+48{50}
+[INTEGER $temp6]
+referentce 2
+50{54}
+[INTEGER $temp7]
+referentce 1
+52{54}
+[INTEGER $temp8]
+referentce 1
+55{57}
+[INTEGER $temp9]
+referentce 1
+57{59}
+[INTEGER $temp10]
+referentce 2
+61{62}
+[INTEGER $temp11]
+referentce 2
+62{63}
+0	
+[INTEGER $temp0]
+referentce 2
+6{8}
+0	1	1	1	
+1	0	0	0	
+1	0	0	1	
+1	0	1	0	
+[arg INTEGER n]
+referentce 5
+12{13,14,17,22}
+[INTEGER $temp0]
+referentce 2
+17{18}
+[INTEGER $temp1]
+referentce 2
+20{22}
+[INTEGER $temp2]
+referentce 2
+22{23}

@@ -1,0 +1,3 @@
+var hse:array [10] of integer;
+ss: array [10] of integer;
+begin ss[1]:=2; hse[ss[1]]:=3 ; write(hse[2]);  end.

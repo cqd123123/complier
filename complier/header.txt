@@ -1,0 +1,7 @@
+.386
+.model flat, stdcall
+option casemap :none
+
+includelib msvcrt.lib	;vc运行时环境
+printf PROTO C:ptr sbyte, :vararg
+scanf PROTO C:ptr sbyte, :vararg
